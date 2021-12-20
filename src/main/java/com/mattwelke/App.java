@@ -1,9 +1,5 @@
 package com.mattwelke;
 
-import java.time.Duration;
-import java.time.Instant;
-import java.util.concurrent.atomic.AtomicInteger;
-
 public class App {
 
     public static void main(String[] args) {
